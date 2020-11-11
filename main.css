@@ -1,0 +1,34 @@
+body {
+    margin: 0; 
+    background-color: lime;
+}
+
+.navbar {
+    background-color: mediumblue;
+    padding: 10px;
+    margin: 0;
+    text-align: right;
+    text-decoration-color: ivory;
+}
+
+.nav-link {
+    background-color: darkorange;
+    color: ivory;
+    padding: .4em;
+    border-radius: 15px;
+}
+
+.regbox {
+    background-color: rgb(180, 21, 21);
+    text-align: center;
+    display: block; 
+}
+
+.images {
+    display: inline-block;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 0;
+    width: 20%;
+}
+    
