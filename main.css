@@ -18,8 +18,16 @@ body {
     border-radius: 15px;
 }
 
+h1 {
+    background-color: rgb(247, 10, 10);
+}
+
+legend {
+    background-color: lightseagreen;
+}
+
 .regbox {
-    background-color: rgb(180, 21, 21);
+    background-color: rgb(210, 236, 116);
     text-align: center;
     display: block; 
 }
@@ -32,3 +40,7 @@ body {
     width: 20%;
 }
     
+.sub {
+    background-color: rgb(72, 34, 241);
+    color: ivory;
+}
